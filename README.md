@@ -12,7 +12,7 @@ We used the hyperparameters below:
 <br>
 ![image](hyperparameters.png)
 
-To record agent can add monitor.
+To record a video of agent you can add a monitor around the make_env method in train_agent.
 
 Future work:
 Add functionality to run any combination of algorithms.
